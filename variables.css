@@ -1,23 +1,8 @@
 //Variáveis globais do White Label
-:root { 
-    --primary-color: #1b3157;
-    --secondary-color: #2D61C3;
-    --font-color: #ffffff;
-    --background-color: #ebf0f8;
-    --header-color: #ffffff;
-    --footer-color: #1b3157;
-    --button-color: #2D61C3;
-    --letter-spacing: -0.5px;
-  }
-  
-  //cinza light2x
-  $gray-200: #dddddd;
-  //cinza light
-  $gray-300: #cccccc;
-  //cinza intermediário
-  $gray-400: #c7c9c7;
-  //Cinza intermediário-escuro
-  $gray-500: #666666;
-  //Cinza escuro
-  $gray-700: #58595b;
-  
+.primary-color {
+    color: #1b3157;
+}
+
+.secondary-color {
+    color: #2D61C3;
+}
